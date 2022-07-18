@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Emiliano",
+      "empresa": "Emiliano CA",
+      "email": "emimontanar94@gmail.com",
+      "telefono": "662289473",
+      "notas": "Lo mando Juan Carlos",
+      "id": 1
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "2121212121",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Lucas",
+      "empresa": "Automotores SA",
+      "email": "correo@correo.com",
+      "telefono": "123434565656",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
